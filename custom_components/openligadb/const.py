@@ -41,7 +41,6 @@ PREDEFINED_LEAGUES: Final[dict[str, str]] = {
     "ol1": "Oberliga Niederrhein (OL1)",
     # Germany - women
     "ffb1": "Frauen-Bundesliga (ffb1)",
-    "bl1w": "1. Frauen-Bundesliga (bl1w)",
     # National teams
     "dfbn": "DFB Nationalspiele (DFBN)",
     "nla": "UEFA Nations League A (nla)",
@@ -54,8 +53,6 @@ PREDEFINED_LEAGUES: Final[dict[str, str]] = {
     "la1": "LaLiga ESP (la1)",
     "atbl1": "Admiral Bundesliga AT (atbl1)",
     "chsl": "Super League CH (chsl)",
-    # Other
-    "essl": "Empty Stands Spendenliga (essl)",
 }
 
 # Events
